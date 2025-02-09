@@ -2,6 +2,7 @@
 Adds and removes percentages easier. No bells, no whistles. Just numbers being numbers. Don’t expect fireworks.
 -------------------------------------------------
 Usage:
+Open with PowerShell, or just copy the code and paste into it, whatever.
 1. Specify the number you want to subtrac/add the percentage. Press Enter
 2. Specify wheter it's a subtraction or addition with " - " and " + ". Press Enter
 3. Insert amount, no need to add "%". Guess what? Press Enter again...
